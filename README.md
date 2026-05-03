@@ -32,20 +32,9 @@ PulseSol is a Solana mobile app that lets you track the on-chain activity of top
 
 ---
 
-## Platform
-
-- **Android** — package `com.pulsesol.app`
-- **iOS** — bundle ID `com.pulsesol.app`
-
----
-
 ## Legal
 
 - [Terms of Use](./TERMS_OF_USE.md)
 - [Privacy Policy](./PRIVACY_POLICY.md)
 
 ---
-
-## Contact
-
-For support or inquiries: **denis.denisv8701@gmail.com**
