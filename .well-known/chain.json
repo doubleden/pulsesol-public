@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.pulsesol.app",
+      "sha256_cert_fingerprints": ["CD:60:FD:95:23:1C:5B:DD:F2:54:A6:C9:65:D6:C0:86:37:EE:0D:90:1F:25:40:42:1C:6A:E9:43:5D:42:9A:43"]
+    }
+  }
+]
