@@ -1,5 +1,7 @@
 # PulseSol
 
+![BANNER](banner.png)
+
 > **See what whales do. Mirror it.**
 
 PulseSol is a Solana mobile app that lets you track the on-chain activity of top wallets ("whales"), explore their token swaps in real time, and copy their trades with one tap — all from your phone.
